@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/datandragonsio/precache-manifest.03fd5392634b8b74f3d6a04c2e195ff4.js"
+  "/datandragonsio/precache-manifest.a24da083aab01e63bce5012b0a332a16.js"
 );
 
 workbox.clientsClaim();

@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/datandragonsio/static/js/runtime~main.98b99f7e.js"
   },
   {
-    "revision": "2531544f355975992ee2",
-    "url": "/datandragonsio/static/js/main.2531544f.chunk.js"
+    "revision": "62b483d3afd81f9e7de7",
+    "url": "/datandragonsio/static/js/main.62b483d3.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/datandragonsio/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "2531544f355975992ee2",
+    "revision": "62b483d3afd81f9e7de7",
     "url": "/datandragonsio/static/css/main.1fe0dc03.chunk.css"
   },
   {
-    "revision": "e68a40e252181a413f347050ec677e91",
+    "revision": "0993b3b7e7869349c3129ba456a5ad4e",
     "url": "/datandragonsio/index.html"
   }
 ];
